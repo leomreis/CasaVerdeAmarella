@@ -1,0 +1,46 @@
+{
+  "queijos": [
+    {
+      "id": "minas-padrao",
+      "name": "Queijo Minas Padrão",
+      "type": "minas",
+      "unit": "kg",
+      "price": 39.90,
+      "image": "https://images.unsplash.com/photo-1546549039-49e7f9a5e6c1?q=80&w=800&auto=format&fit=crop",
+      "description": "Leve e fresco, ideal para o dia a dia.",
+      "blocked": false
+    },
+    {
+      "id": "canastra-curado",
+      "name": "Canastra Curado",
+      "type": "canastra",
+      "unit": "kg",
+      "price": 69.90,
+      "image": "https://images.unsplash.com/photo-1604908554033-19cfb7ca5ad9?q=80&w=800&auto=format&fit=crop",
+      "description": "Sabor marcante, maturação 30+ dias.",
+      "blocked": false
+    }
+  ],
+  "tabuas": [
+    {
+      "id": "classica",
+      "name": "Tábua Clássica",
+      "unit": "un",
+      "price": 89.90,
+      "image": "https://images.unsplash.com/photo-1541782814452-d6d08e6f0d3b?q=80&w=800&auto=format&fit=crop",
+      "description": "Serve 2–3 pessoas.",
+      "blocked": false
+    }
+  ],
+  "vinhos": [
+    {
+      "id": "espumante-brut",
+      "name": "Espumante Brut",
+      "unit": "un",
+      "price": 69.90,
+      "image": "https://images.unsplash.com/photo-1509358271058-acd22cc93898?q=80&w=800&auto=format&fit=crop",
+      "description": "Refrescante e suave.",
+      "blocked": false
+    }
+  ]
+}
